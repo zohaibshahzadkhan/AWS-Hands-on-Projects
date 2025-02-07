@@ -14,7 +14,7 @@ The goal of this repository is to provide hands-on AWS solutions, best practices
 
 1. Clone the repository:
    ```sh
-   git@github.com:zohaibshahzadkhan/AWS-Projects.git
+   git@github.com:zohaibshahzadkhan/aws-projects.git
    ```
 2. Navigate into a project directory:
    ```sh
