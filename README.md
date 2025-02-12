@@ -2,15 +2,16 @@
 
 Welcome to the **AWS Projects Repository**! This repository contains a collection of AWS-based projects designed to help with learning, deploying, and managing AWS cloud services efficiently.
 
-## 📌 Projects Included
+##  Projects Included
 
-- **IAM User Management** – Automate IAM user creation and permissions with MFA enabled.
+- **[IAM User Management](./IAM/Readme.md)** – Automate IAM user creation and permissions with MFA enabled.
+- **[Migration of a Workload from a Corporate Data Center to AWS](./corporate-data-center-migration-to-cloud/Readme.md)**
 
-## 🎯 Goal
+##  Goal
 
 The goal of this repository is to provide hands-on AWS solutions, best practices, and reusable code for cloud deployments.
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository:
    ```sh
