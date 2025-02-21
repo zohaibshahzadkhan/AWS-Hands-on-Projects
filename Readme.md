@@ -5,8 +5,13 @@ Welcome to the **AWS Projects Repository**! This repository contains a collectio
 ##  Projects Included
 
 1. **[IAM User Management](./IAM/Readme.md)**
+   
+   ![](./IAM/images/Architecture.png)
 2. **[Migration of a Workload from a Corporate Data Center to AWS](./Corporate-DataCenter-Migration//Readme.md)**
+   ![](./Corporate-DataCenter-Migration/images/architecture.png)
 3. **[Implementation of a Scalable Web Application using the services of AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Location](./Scalable-App//Readme.md)**
+
+   ![](./Scalable-App/images/architecture.png)
 
 ##  Goal
 
