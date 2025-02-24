@@ -1,35 +1,51 @@
-# AWS Projects ☁️
+# AWS Bootcamp - Hands-on Projects
 
-Welcome to the **AWS Projects Repository**! This repository contains a collection of AWS-based projects designed to help with learning, deploying, and managing AWS cloud services efficiently.
+## Overview
+This repository contains the hands-on projects completed as part of the **Amazon Web Services (AWS) Bootcamp** offered by **The Cloud Bootcamp**. The bootcamp is a hands-on specialization program focusing on AWS and Cloud Computing, with a total duration of **47 hours**.
 
-##  Projects Included
+## About the Bootcamp
+The AWS Bootcamp provided an opportunity to acquire foundational knowledge of Amazon Web Services (AWS) and Cloud Computing. Throughout the program, several mini-projects were implemented based on real-world scenarios, covering key AWS services and best practices.
 
-1. **[IAM User Management](./IAM/Readme.md)**
-   
-   ![](./IAM/images/Architecture.png)
-2. **[Migration of a Workload from a Corporate Data Center to AWS](./Corporate-DataCenter-Migration//Readme.md)**
-   ![](./Corporate-DataCenter-Migration/images/architecture.png)
-3. **[Implementation of a Scalable Web Application using the services of AWS Elastic Beanstalk, DynamoDB, CloudFront and Edge Location](./Scalable-App//Readme.md)**
+## Projects Implemented
 
-   ![](./Scalable-App/images/architecture.png)
+### 1. **[Automated User Migration and IAM Resource Management](./IAM/Readme.md)**
+- Developed an automated solution for user migration and management of AWS **Identity and Access Management (IAM)** resources.
+- Ensured secure and efficient user provisioning and access control.
+  
+  ![](./IAM/images/Architecture.png)
 
-##  Goal
+### 2. **[Workload Migration to AWS](./Corporate-DataCenter-Migration//Readme.md)**
+- Migrated a workload running in a corporate data center to AWS.
+- Utilized **Amazon EC2** for computing and **Amazon RDS** for database management.
+- Improved scalability, availability, and cost efficiency.
+  
+  ![](./Corporate-DataCenter-Migration/images/architecture.png)
 
-The goal of this repository is to provide hands-on AWS solutions, best practices, and reusable code for cloud deployments.
+### 3. **[Scalable Web Application Deployment](./Scalable-App//Readme.md)**
+- Implemented a scalable web application using:
+  - **AWS Elastic Beanstalk** for deployment and management.
+  - **Amazon DynamoDB** for NoSQL database storage.
+  - **Amazon CloudFront** and **Edge Locations** for content delivery.
+- Achieved high availability and performance optimization.
+  
+  ![](./Scalable-App/images/architecture.png)
 
-##  Getting Started
+### 4. **[Automated EC2 Instance Deployment & Security Setup](./DevSecOps/Readme.md)**
+- Provisioned a set of EC2 instances using **Terraform**.
+- Configured **AWS Systems Manager** for automated security installations.
+- Integrated **Amazon Simple Notification Service (SNS)** for security alerts.
+  
+  ![](./DevSecOps/images/architecture.png)
 
-1. Clone the repository:
-   ```sh
-   git@github.com:zohaibshahzadkhan/aws-projects.git
-   ```
-2. Navigate into a project directory:
-   ```sh
-   cd aws-projects/<project-name>
-   ```
-3. Follow the individual project README files for setup and execution.
+### 5. **Executive Presentation of Infrastructure Costs**
+- Analyzed and presented the infrastructure cost estimates for an **SAP Migration project** from an on-premises environment to AWS.
+- Provided cost breakdowns and optimization strategies.
+
+### 6. **Final Project: Automated E-Commerce System Deployment**
+- Designed and deployed a fully automated **E-Commerce System** on AWS.
+- Leveraged **Terraform** and **Ansible** for Infrastructure as Code (IaC) and configuration management.
+- Ensured seamless deployment, scalability, and security.
+
 
 ---
-
-🔹 **Stay tuned for more AWS projects and updates!**
 
