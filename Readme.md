@@ -40,6 +40,8 @@ The AWS Bootcamp provided an opportunity to acquire foundational knowledge of Am
 ### 5. **Executive Presentation of Infrastructure Costs**
 - Analyzed and presented the infrastructure cost estimates for an **SAP Migration project** from an on-premises environment to AWS.
 - Provided cost breakdowns and optimization strategies.
+  
+  ![](./SAP-Infrastructure-Migration-Costs/images/Architecture.png)
 
 ### 6. **Final Project: Automated E-Commerce System Deployment**
 - Designed and deployed a fully automated **E-Commerce System** on AWS.
