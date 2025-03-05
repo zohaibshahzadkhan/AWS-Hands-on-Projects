@@ -37,7 +37,7 @@ The AWS Bootcamp provided an opportunity to acquire foundational knowledge of Am
   
   ![](./DevSecOps/images/architecture.png)
 
-### 5. **Executive Presentation of Infrastructure Costs**
+### 5. **[Executive Presentation of Infrastructure Costs](./SAP-Infrastructure-Migration-Costs/Readme.md)**
 - Analyzed and presented the infrastructure cost estimates for an **SAP Migration project** from an on-premises environment to AWS.
 - Provided cost breakdowns and optimization strategies.
   
